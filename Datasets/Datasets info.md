@@ -4,8 +4,8 @@
 
 **Files:**
 
-1. train.csv - training data file;
-2. test.csv - file for predicting survived passengers.
+1. titanic_train.csv - training data file;
+2. titanic_test.csv - file for predicting survived passengers.
 
 **Columns:**
 
